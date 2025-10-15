@@ -1,0 +1,12 @@
+Mon Oct 13 21:44:19 2025 Disconnected because of error:
+Disconnected: You are banned from this server.
+at /home/linux/Documents/GitHub/a-la-popa-main/Sources/Client/NetClient.cpp:498
+void spades::client::NetClient::DoEvents(int) at NetClient.cpp:477
+virtual void spades::client::Client::RunFrame(float) at Client.cpp:402
+virtual void spades::gui::MainScreen::RunFrame(float) at MainScreen.cpp:232
+void spades::gui::SDLRunner::Run(int, int) at SDLRunner.cpp:427
+void spades::gui::Runner::Run() at Runner.cpp:70
+void spades::gui::Runner::RunProtected() at Runner.cpp:42
+int main(int, char**) at Main.cpp:312
+
+Mon Oct 13 21:44:19 2025 Disconnecting

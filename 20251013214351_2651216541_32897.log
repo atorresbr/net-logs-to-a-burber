@@ -1,0 +1,32 @@
+Mon Oct 13 21:43:56 2025 ------ World Loaded ------
+Mon Oct 13 21:43:56 2025 Welcome to popeyspades 99wins 1month
+Mon Oct 13 21:43:58 2025 Map: Hallway by izzy
+Mon Oct 13 21:44:00 2025 Game mode: ctf
+Mon Oct 13 21:44:01 2025 Deuce () [Fall]
+Mon Oct 13 21:44:01 2025 You have 1 medkit!
+Mon Oct 13 21:44:02 2025 Server powered by piqueserver and buildandshoot.com
+Mon Oct 13 21:44:03 2025 [Global] ATORRES_BR! (Good): hhmmmm
+Mon Oct 13 21:44:03 2025 Loveforplanes (Good) [Shotgun] Pedro (Evil)
+Mon Oct 13 21:44:04 2025 Server info: https://popeyspad.es/
+Mon Oct 13 21:44:06 2025 Discord: https://popeyspad.es/discord
+Mon Oct 13 21:44:06 2025 [Global] not a burner (): mmh
+Mon Oct 13 21:44:10 2025  ATORRES_BR! has a kill-death ratio of 0.00 (0 kills, 0 deaths).
+Mon Oct 13 21:44:10 2025  ATORRES_BR! removed no blocks in the last 2.0 minutes. ATORRES_BR! joined Good team 8
+Mon Oct 13 21:44:10 2025  seconds ago.
+Mon Oct 13 21:44:10 2025  Deuce (#11) started a VOTEKICK againstATORRES_BR! (#18). Say /Y to agree
+Mon Oct 13 21:44:10 2025  Reason: idk
+Mon Oct 13 21:44:10 2025 [Global] Pedro (Evil): oh no
+Mon Oct 13 21:44:10 2025 [Global] ATORRES_BR! (Good): romantic this maps
+Mon Oct 13 21:44:12 2025 ------ World Unloaded ------
+Mon Oct 13 21:44:12 2025 Disconnected because of error:
+Disconnected: You were kicked from this server.
+at /home/linux/Documents/GitHub/a-la-popa-main/Sources/Client/NetClient.cpp:498
+void spades::client::NetClient::DoEvents(int) at NetClient.cpp:477
+virtual void spades::client::Client::RunFrame(float) at Client.cpp:402
+virtual void spades::gui::MainScreen::RunFrame(float) at MainScreen.cpp:232
+void spades::gui::SDLRunner::Run(int, int) at SDLRunner.cpp:427
+void spades::gui::Runner::Run() at Runner.cpp:70
+void spades::gui::Runner::RunProtected() at Runner.cpp:42
+int main(int, char**) at Main.cpp:312
+
+Mon Oct 13 21:44:12 2025 Disconnecting
